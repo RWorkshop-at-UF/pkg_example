@@ -1,0 +1,14 @@
+Package: welcome
+Type: Package
+Title: Greetings from Tek
+Version: 0.1.0
+Author: Taikgun Song
+Maintainer: Taikgun Song <songt@ufl.edu>
+Description: A short example for RWorkshop
+License: GPL-2
+Depends: R (>= 2.10)
+Imports:
+VignetteBuilder: knitr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
